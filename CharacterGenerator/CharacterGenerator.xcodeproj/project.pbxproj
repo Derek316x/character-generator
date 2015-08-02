@@ -14,6 +14,7 @@
 		8D7B10061B6E6FC6003F4FB8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D7B10051B6E6FC6003F4FB8 /* Images.xcassets */; };
 		8D7B10091B6E6FC6003F4FB8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8D7B10071B6E6FC6003F4FB8 /* LaunchScreen.xib */; };
 		8D7B10151B6E6FC6003F4FB8 /* CharacterGeneratorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D7B10141B6E6FC6003F4FB8 /* CharacterGeneratorTests.m */; };
+		D9A1FABD1B6E9E36002A2709 /* COD4database.m in Sources */ = {isa = PBXBuildFile; fileRef = D9A1FABC1B6E9E36002A2709 /* COD4database.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		8D7B100E1B6E6FC6003F4FB8 /* CharacterGeneratorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CharacterGeneratorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D7B10131B6E6FC6003F4FB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D7B10141B6E6FC6003F4FB8 /* CharacterGeneratorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CharacterGeneratorTests.m; sourceTree = "<group>"; };
+		D9A1FABB1B6E9E36002A2709 /* COD4database.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = COD4database.h; sourceTree = "<group>"; };
+		D9A1FABC1B6E9E36002A2709 /* COD4database.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = COD4database.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,8 @@
 			children = (
 				8D7B0FFC1B6E6FC6003F4FB8 /* AppDelegate.h */,
 				8D7B0FFD1B6E6FC6003F4FB8 /* AppDelegate.m */,
+				D9A1FABB1B6E9E36002A2709 /* COD4database.h */,
+				D9A1FABC1B6E9E36002A2709 /* COD4database.m */,
 				8D7B0FFF1B6E6FC6003F4FB8 /* ViewController.h */,
 				8D7B10001B6E6FC6003F4FB8 /* ViewController.m */,
 				8D7B10021B6E6FC6003F4FB8 /* Main.storyboard */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9A1FABD1B6E9E36002A2709 /* COD4database.m in Sources */,
 				8D7B10011B6E6FC6003F4FB8 /* ViewController.m in Sources */,
 				8D7B0FFE1B6E6FC6003F4FB8 /* AppDelegate.m in Sources */,
 				8D7B0FFB1B6E6FC6003F4FB8 /* main.m in Sources */,
@@ -418,6 +424,7 @@
 				8D7B101A1B6E6FC6003F4FB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8D7B101B1B6E6FC6003F4FB8 /* Build configuration list for PBXNativeTarget "CharacterGeneratorTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +433,7 @@
 				8D7B101D1B6E6FC6003F4FB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

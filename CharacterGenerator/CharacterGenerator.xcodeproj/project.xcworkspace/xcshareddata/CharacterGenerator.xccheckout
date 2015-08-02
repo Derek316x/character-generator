@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>514B79B2-1747-4587-809B-FE29D6775BB6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CharacterGenerator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>184B2E9AB715F5F83167330EB53022977762DD58</key>
+		<string>https://github.com/accesscode-2-2/panther.git</string>
+		<key>F622C222F323CE98DE95B991764165AE5D41DB95</key>
+		<string>https://github.com/Xiulanshi/character-generator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CharacterGenerator/CharacterGenerator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>184B2E9AB715F5F83167330EB53022977762DD58</key>
+		<string>../../../..</string>
+		<key>F622C222F323CE98DE95B991764165AE5D41DB95</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Xiulanshi/character-generator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F622C222F323CE98DE95B991764165AE5D41DB95</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>184B2E9AB715F5F83167330EB53022977762DD58</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F622C222F323CE98DE95B991764165AE5D41DB95</string>
+			<key>IDESourceControlWCCName</key>
+			<string>character-generator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
